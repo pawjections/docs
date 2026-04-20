@@ -20,9 +20,9 @@ const config: Config = {
   baseUrl: '/',
 
   // GitHub pages deployment config.
-  organizationName: 'Pawjections', // GitHub org/user name.
+  organizationName: 'pawjections', // GitHub org/user name.
   projectName: 'docs', // repo name.
-
+  trailingSlash: false,
   onBrokenLinks: 'throw',
 
   // Internationalization
